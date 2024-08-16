@@ -1,0 +1,7 @@
+This has been made using c language.
+
+In this i had used the help of bro code and ChatGPT.
+
+The help of ChatGPT is used to make the computer moves more Strategic. 
+
+I felt comfort with the 1D arrays so that i used them in this code, one can modify it according to their wish (trying different data Structure can also be performed).
